@@ -1,0 +1,23 @@
+# SQL*Plus / SQL Developer output
+*.lst
+*.log
+*.trc
+sqlnet.log
+afiedt.buf
+
+# Oracle wallet / credential material
+*.sso
+*.p12
+*.jks
+tnsnames.ora
+wallet/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
